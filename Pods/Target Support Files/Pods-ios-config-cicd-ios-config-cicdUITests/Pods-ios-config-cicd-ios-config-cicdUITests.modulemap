@@ -1,0 +1,6 @@
+framework module Pods_ios_config_cicd_ios_config_cicdUITests {
+  umbrella header "Pods-ios-config-cicd-ios-config-cicdUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
